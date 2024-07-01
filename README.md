@@ -46,3 +46,12 @@ The FiveM script provides comprehensive management of the game environment throu
 - **Functionality Expansion**: Expanding weather effects and modularizing into separate files provide administrators with more creative options for shaping the game environment and enable easy integration of new features.
 
 These planned developments will not only enhance the existing features of your FiveM script but also provide new opportunities for customization and expansion, continually enriching the player experience and meeting the evolving needs of the community.
+
+
+I encrypt the code for several reasons, particularly because many sections are not yet fully implemented and lack functional utility. Releasing unencrypted code at this stage could lead to misunderstandings or distractions from the actual development process.
+
+Encrypting the code allows me to maintain control over the development process and ensures that the focus remains on gradual implementation and functionality. This facilitates organized and consistent progression of the script, without premature expectations or speculations that could disrupt development efforts.
+
+Additionally, encryption safeguards sensitive parts of the code from unauthorized access or alterations. This is crucial during early development phases to preserve code integrity and minimize potential security risks.
+
+By taking this measure, I aim to ensure that the script is developed in a stable and secure environment before releasing further details publicly. This supports structured development and provides the development team with the flexibility needed to expand the script sustainably and effectively.
