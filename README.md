@@ -48,7 +48,7 @@ The FiveM script provides comprehensive management of the game environment throu
 These planned developments will not only enhance the existing features of your FiveM script but also provide new opportunities for customization and expansion, continually enriching the player experience and meeting the evolving needs of the community.
 
 
-I encrypt the code for several reasons, particularly because many sections are not yet fully implemented and lack functional utility. Releasing unencrypted code at this stage could lead to misunderstandings or distractions from the actual development process.
+I will encrypt the code for several reasons, particularly because many sections are not yet fully implemented and lack functional utility. Releasing unencrypted code at this stage could lead to misunderstandings or distractions from the actual development process.
 
 Encrypting the code allows me to maintain control over the development process and ensures that the focus remains on gradual implementation and functionality. This facilitates organized and consistent progression of the script, without premature expectations or speculations that could disrupt development efforts.
 
