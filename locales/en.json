@@ -1,0 +1,13 @@
+{
+    "weather_changed": "Weather changed to {weatherType}.",
+    "invalid_weather_type": "Invalid weather type",
+    "invalid_time": "Invalid hour or minute",
+    "time_changed": "Time changed to: {hour}:{minute}",
+    "no_permission": "You do not have permission to change the weather.",
+    "usage_settime": "Usage: /settime <hour> <minute>",
+    "weather_effect_started": "Sandstorm started.",
+    "player_speed_adjusted": "Player speed adjusted in snow.",
+    "player_grip_adjusted": "Player grip adjusted in rain.",
+    "vehicle_traction_adjusted": "Vehicle traction adjusted for {weatherType}.",
+    "vehicle_traction_reset": "Vehicle traction reset to normal."
+}
