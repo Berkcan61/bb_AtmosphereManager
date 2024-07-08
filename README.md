@@ -1,5 +1,22 @@
 # bb_AtmosphereManager
 
+
+## [v1.1.0-beta] - 04.07.2024
+- **Verbesserungen:**
+  - **Code-Optimierungen:**
+    - `settime`, Ambient Sounds und NPCs/Fahrzeuge wurden vom Hauptcode separiert, um die Code-Übersichtlichkeit und Wartbarkeit zu verbessern.
+  - **Fehlerbehandlung:**
+    - Verbesserte Fehlerbehandlung im gesamten Code.
+  - **Struktur und Sicherheit:**
+    - Optimierte Struktur und erhöhter Sicherheitsstandard des gesamten Codes.
+
+### Detaillierte Änderungen:
+- **Zeitverwaltung:**
+  - Die `SetTime` Funktion prüft und protokolliert ungültige Zeitwerte.
+  - Der `/settime` Befehl sendet Fehlermeldungen und Erfolgsmeldungen an den ausführenden Spieler, um Feedback zu geben.
+  - Das `TriggerClientEvent` sendet die Nachricht an alle Clients, damit die Zeit auf allen verbundenen Clients synchronisiert wird.
+
+
 ### Current Features:
 
 #### What does the script do?
