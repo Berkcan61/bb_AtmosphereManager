@@ -2,19 +2,19 @@
 
 
 ## [v1.1.0-beta] - 04.07.2024
-- **Verbesserungen:**
-  - **Code-Optimierungen:**
-    - `settime`, Ambient Sounds und NPCs/Fahrzeuge wurden vom Hauptcode separiert, um die Code-Übersichtlichkeit und Wartbarkeit zu verbessern.
-  - **Fehlerbehandlung:**
-    - Verbesserte Fehlerbehandlung im gesamten Code.
-  - **Struktur und Sicherheit:**
-    - Optimierte Struktur und erhöhter Sicherheitsstandard des gesamten Codes.
+- **Enhancements:**
+  - **Code optimizations:**
+    - Separated `settime`, ambient sounds, and NPCs/vehicles from main code to improve code clarity and maintainability.
+  - **Error handling:**
+    - Enhanced error handling throughout the codebase.
+  - **Structure and security:**
+    - Optimized structure and increased overall code security.
 
-### Detaillierte Änderungen:
-- **Zeitverwaltung:**
-  - Die `SetTime` Funktion prüft und protokolliert ungültige Zeitwerte.
-  - Der `/settime` Befehl sendet Fehlermeldungen und Erfolgsmeldungen an den ausführenden Spieler, um Feedback zu geben.
-  - Das `TriggerClientEvent` sendet die Nachricht an alle Clients, damit die Zeit auf allen verbundenen Clients synchronisiert wird.
+### Detailed Changes:
+- **Time management:**
+  - The `SetTime` function validates and logs invalid time values.
+  - The `/settime` command sends error and success messages to the executing player for feedback.
+  - The `TriggerClientEvent` broadcasts the message to all clients to synchronize time across connected clients.
 
 
 ### Current Features:

@@ -12,9 +12,13 @@ version '1.0'
 --}
 
 server_scripts {
-    'server.lua',
+	'server/time.lua',
+	'server.lua'
 }
 
 client_scripts {
-    'client.lua',
+	'client/NPCs and vehicles.lua',
+	'client/time.lua',
+	'client/ambient sounds.lua',
+	'client.lua'
 }
